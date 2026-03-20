@@ -100,31 +100,31 @@ Structured for Claude Code to tick tasks automatically across all phases.
 
 ## AI Integration
 
-* [ ] Setup OpenAI API
-* [ ] Integrate ChatKit
-* [ ] Setup Agents SDK
-* [ ] Configure MCP tools
+* [x] Setup OpenAI API
+* [x] Integrate ChatKit
+* [x] Setup Agents SDK
+* [x] Configure MCP tools
 
 ## Intelligence Layer
 
-* [ ] Convert text → todo task
-* [ ] Extract due dates
-* [ ] Extract priorities
-* [ ] Detect user intent
-* [ ] Chat endpoint in backend
+* [x] Convert text → todo task
+* [x] Extract due dates
+* [x] Extract priorities
+* [x] Detect user intent
+* [x] Chat endpoint in backend
 
 ## Conversational UI
 
-* [ ] Chat interface in Next.js
-* [ ] Send prompts to backend
-* [ ] Show AI responses
-* [ ] Task creation via chat
+* [x] Chat interface in Next.js
+* [x] Send prompts to backend
+* [x] Show AI responses
+* [x] Task creation via chat
 
 ## Phase Completion Criteria
 
-* [ ] User can type: “Remind me to pay bills tomorrow”
-* [ ] AI converts it into a saved task
-* [ ] Chat works reliably
+* [x] User can type: “Remind me to pay bills tomorrow”
+* [x] AI converts it into a saved task
+* [x] Chat works reliably
 
 ---
 
